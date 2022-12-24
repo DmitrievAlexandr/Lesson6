@@ -1,0 +1,15 @@
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.csproj.AssemblyReference.cache
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.AssemblyInfoInputs.cache
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.AssemblyInfo.cs
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.csproj.CoreCompileInputs.cache
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\bin\Debug\net6.0\Д.З. Задача 41.exe
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\bin\Debug\net6.0\Д.З. Задача 41.deps.json
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\bin\Debug\net6.0\Д.З. Задача 41.runtimeconfig.json
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\bin\Debug\net6.0\Д.З. Задача 41.dll
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\bin\Debug\net6.0\Д.З. Задача 41.pdb
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.dll
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\refint\Д.З. Задача 41.dll
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.pdb
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\Д.З. Задача 41.genruntimeconfig.cache
+C:\Моя Учёба\Програмирование\Lesson6\Д.З. Задача 41\obj\Debug\net6.0\ref\Д.З. Задача 41.dll
